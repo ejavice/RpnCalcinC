@@ -1,0 +1,4 @@
+--	to run the program just type in 'make run' in the command line
+--  test files are in the rpn_files folder
+--  to switch test file just edit the Makefile line 20. i.e:  ./pcalc rpn_files/publicCount.rpn
+-- 	rpn files are only allowed to have end of line commenting beginning with ';'
